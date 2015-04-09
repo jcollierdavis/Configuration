@@ -1,0 +1,27 @@
+kits:
+  SampleKit:
+    icoprice: 40000.0
+    cpprice: 2
+    needboth: false
+    cooldown: 0
+    items:
+      item0:
+        item: 278-0
+        quantity: 1
+        repaircost: 0
+      item1:
+        item: 35-5
+        quantity: 5
+        repaircost: 0
+  EnchantedSampleKit:
+    icoprice: 8000.0
+    cpprice: 3
+    needboth: true
+    cooldown: 0
+    items:
+      item0:
+        item: 278-0
+        quantity: 1
+        enchantments:
+          DIG_SPEED: 3
+        repaircost: 0
