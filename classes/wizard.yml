@@ -1,0 +1,7 @@
+Wizard:
+  config:
+    classtag: 'Wizard'
+    classMaxHealth: +2
+  traits:
+    LastStandtrait:
+      value: 50

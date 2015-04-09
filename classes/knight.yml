@@ -1,0 +1,7 @@
+Knight:
+  config:
+    classtag: 'Knight'
+    classMaxHealth: +2
+  traits:
+    LastStandtrait:
+      value: 50

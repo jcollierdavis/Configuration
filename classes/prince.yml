@@ -1,0 +1,8 @@
+Prince:
+  config:
+    classtag: 'Prince'
+    classMaxHealth: +2
+  traits:
+    HoeDamageIncreaseTrait:
+      operation: '*'
+      value: 2.5

@@ -1,0 +1,18 @@
+Pirate:
+  config:
+    racetag: 'Pirate'
+    raceMaxHealth: 30
+    armor: leather
+  traits:
+    PickaxeDamageIncreaseTrait:
+      operation: '+'
+      value: 2
+      displayName: 'Pickaxe proficiency'
+      description: 'Increase damage from pickaxes'
+    MovementSpeedTrait:
+      value: .3
+    SwimmingSpeedTrait:
+      level: 1
+    DrainResistanceTrait:
+      operation: '*'
+      value: 1.5

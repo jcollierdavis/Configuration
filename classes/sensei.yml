@@ -1,0 +1,7 @@
+Sensei:
+  config:
+    classtag: 'Sensei'
+    classMaxHealth: +2
+  traits:
+    LastStandtrait:
+      value: 50

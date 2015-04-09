@@ -1,0 +1,7 @@
+Thief:
+  config:
+    classtag: 'Thief'
+    classMaxHealth: +2
+  traits:
+    LastStandtrait:
+      value: 50

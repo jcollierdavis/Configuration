@@ -1,0 +1,9 @@
+Captain:
+  config:
+    classtag: 'Captain'
+    classMaxHealth: +2
+  traits:
+    NightDamageTrait:
+      seconds: 10
+      damage: -1
+      standing: true

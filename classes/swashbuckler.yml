@@ -1,0 +1,7 @@
+Swashbuckler:
+  config:
+    classtag: 'Swashbuckler'
+    classMaxHealth: +2
+  traits:
+    LastStandtrait:
+      value: 50

@@ -1,0 +1,20 @@
+Monk:
+  config:
+    racetag: 'Monk'
+    raceMaxHealth: 25
+    armor: leather
+  traits:
+    ShovelDamageIncreaseTrait:
+      operation: '+'
+      value: 5
+      displayName: 'Shovel proficiency'
+      description: 'Increase damage from shovels'
+    HungerReplenishTrait:
+      operation: '*'
+      value: 2
+    DwarfSkinTrait:
+      operation: '/'
+      value: 2
+    FallResistanceTrait:
+      operation: '*'
+      value: 1.5

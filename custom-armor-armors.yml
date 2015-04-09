@@ -1,0 +1,71 @@
+#         Armors.yml: Here you add and customize your armors
+#                     Create each armor like the EXAMPLE armor is done below. (For more help in creating armors look under 'Config Information' on the Bukkit Dev page)
+#                     After creating your armor add it's name to the 'Registered_Armors' list.
+#                     * For plugin settings go to 'Settings.yml'
+#                     Note: Disabled features aren't deleted, they just aren't looked at by the plugin. Just ignore features that are disabled.
+#                     New Features:
+#                           DuraChangePerHit: The value the armor will decrease by every times it's damaged. Can be positive to increase.
+#                                             Setting "DuraChangePerHit:" to "0" will not make the armor unbreakable, sadly.
+#                           PotionEffects: Format it "EFFECT:LEVEL" Separate potion effects with a "," just like Enchantments. "TIME" is not an option
+#                                          because of how the plugin updates/resets potion effects.
+# You Must add your armor to Registered_Armors to get it in-game (Case Sensitive ~!)
+Registered_Armors:
+- EXAMPLE
+Armors:
+  EXAMPLE:
+    Helmet:
+      Name: Example Helm
+      Strength: 7
+      Enchantments: Thorns:22,Protection:8
+      Recipe:
+        Row1: DDD
+        Row2: DXD
+        Row3: XXX
+        Ingredients: X=None,D=57
+      Info: An example helmet... fairly OP too...
+      PotionEffects: night_vision:1
+    Chest:
+      Name: Example Chest
+      Strength: 12
+      Enchantments: None
+      Recipe:
+        Row1: DXD
+        Row2: DDD
+        Row3: DDD
+        Ingredients: X=None,D=57
+      Info: An example chestplate of... FOOOOD!
+      PotionEffects: Saturation:1
+    Legs:
+      Name: Example Leggings
+      Strength: 10
+      Enchantments: None
+      Recipe:
+        Row1: DDD
+        Row2: DXD
+        Row3: DXD
+        Ingredients: X=None,D=57
+      Info: An example leggin's, nothing special...
+      PotionEffects: None
+    Boots:
+      Name: Example Boots
+      Strength: 7
+      Enchantments: Protection_fall:2
+      Recipe:
+        Row1: XXX
+        Row2: DXD
+        Row3: OXO
+        Ingredients: X=None,D=57,O=49
+      Info: An example boots o' falling and speed...
+      PotionEffects: Speed:1
+    Settings:
+      Armor_Color_RGB:
+        Red: 144
+        Green: 189
+        Blue: 167
+      Name_Color_&: 8
+      Rarity: Quite Common
+      Disableables:
+        DisableRarity: false
+        DisableRecipe: false
+      Armor:
+        DuraChangePerHit: -1

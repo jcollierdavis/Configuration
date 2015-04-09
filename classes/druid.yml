@@ -1,0 +1,7 @@
+Druid:
+  config:
+    classtag: 'Druid'
+    classMaxHealth: +2
+  traits:
+    LastStandtrait:
+      value: 50

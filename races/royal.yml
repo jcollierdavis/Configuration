@@ -1,0 +1,20 @@
+Royal:
+  config:
+    racetag: 'Royal'
+    raceMaxHealth: 35
+    armor: leather, chain, iron, gold, diamond
+  traits:
+    SwordDamageIncreaseTrait:
+      operation: '+'
+      value: 3
+      displayName: 'Sword proficiency'
+      description: 'Increase damage from swords'
+    LastStandTrait:
+      value: 6
+      cooldown: 20
+    RegenerationTrait:
+      operation: '+'
+      value: 1
+    LavaResistanceTrait:
+      operation: '*'
+      value: 1.5

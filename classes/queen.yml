@@ -1,0 +1,8 @@
+Queen:
+  config:
+    classtag: 'Queen'
+    classMaxHealth: +2
+  traits:
+    ShovelDamageIncreaseTrait:
+      operation: '*'
+      value: 2.75

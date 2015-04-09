@@ -1,0 +1,41 @@
+King:
+  config:
+    classtag: 'King'
+    classMaxHealth: +2
+  traits:
+    AxeDamageIncreaseTrait:
+      operation: '*'
+      value: 1.75
+    ArrowDamageIncreaseTrait:
+      operation: '*'
+      value: 1.75
+    DamageReduceTrait:
+      operation: '*'
+      value: .9
+    DwarfSkinTrait:
+      operation: '*'
+      value: .8
+    SpecificRegenerationTrait:
+      seconds: 10
+      health: 2 
+      onlyAfterDamaged: 5
+    VampirismTrait:
+      value: .125
+    # AbsorbDamageBuffTrait:
+      # types:
+      # value: 0.5
+    PotionTotemTrait:
+      cost: 0
+      effect: 5
+      amplifier: 1
+      cooldown: 30
+      onlyOnLand: true
+      duration: 15
+      range: 5
+      tickEvery: 1
+    SunDamageTrait:
+      seconds: 10
+      damage: -1
+      standing: true
+      
+

@@ -1,0 +1,17 @@
+Warrior:
+  config:
+    racetag: 'Warrior'
+    raceMaxHealth: 40
+    armor: leather, chain, iron
+  traits:
+    AxeDamageIncreaseTrait:
+      operation: '+'
+      value: 3
+      displayName: 'Axe proficiency'
+      description: 'Increase damage from axes'
+    BerserkerRageTrait:
+      operation: '*'
+      value: '1.25'
+    DamageReduceTrait:
+      operation: '*'
+      value: '.9'      

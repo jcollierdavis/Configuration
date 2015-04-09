@@ -1,0 +1,7 @@
+Paladin:
+  config:
+    classtag: 'Paladin'
+    classMaxHealth: +2
+  traits:
+    LastStandtrait:
+      value: 50

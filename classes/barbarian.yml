@@ -1,0 +1,7 @@
+Barbarian:
+  config:
+    classtag: 'Barbarian'
+    classMaxHealth: +2
+  traits:
+    LastStandtrait:
+      value: 50

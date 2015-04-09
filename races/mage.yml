@@ -1,0 +1,19 @@
+Mage:
+  config:
+    racetag: 'Mage'
+    raceMaxHealth: 20
+    armor: leather
+    traits:
+    StickDamageIncreaseTrait:
+      operation: '*'
+      value: 4
+      displayName: 'Wand proficiency'
+      description: 'Increase damage from wands'
+    ManaRegenerationTrait:
+      time: 5
+      value: 2
+    VampirismTrait:
+      value: .25
+    FireResistanceTrait:
+      operation: '*'
+      value: 2

@@ -1,0 +1,51 @@
+Princess:
+  config:
+    classtag: 'Princess'
+  traits:
+    HoeDamageIncreaseTrait:
+      operation: '*'
+      value: 3
+    ShovelDamageIncreaseTrait:
+      operation: '*'
+      value: 3
+    DwarfSkinTrait:
+      operation: '*'
+      value: 0.7
+    HungerReplenishTrait:
+      operation: '+'
+      value: 1.5
+    LastStandTrait:
+      value: 4
+      cooldown: 15
+      disableCooldownNotice: true
+    MiningSpeedTrait:
+      value: 2
+    MovementSpeedTrait:
+      value: .35
+    PassiveAggroTrait:
+      aggro: [BLAZE#0,CREEPER#0,DONKEY#0,ENDERMAN#0,ENDERMITE#0,GHAST#0,GUARDIAN#0,HORSE#0,MULE#0,OCELOT#0,SILVERFISH#0,SKELETON#0,SLIME#0,SPIDER#0,WITCH#0,WITHER#0,WOLF#0,ZOMBIE#0]
+    FallResistanceTrait:
+      operation: '*'
+      value: 2.5
+    FireResistanceTrait:
+      operation: '*'
+      value: 2.5
+    LavaResistanceTrait:
+      operation: '*'
+      value: 2.5
+    HealTotemTrait:
+      cost: 0
+      duration: 10
+      value: 2
+      cooldown: 50
+      tickEvery: 2
+      range: 3
+    SunDamageTrait:
+      seconds: 2
+      damage: -2
+      standing: true
+      
+
+
+      
+      

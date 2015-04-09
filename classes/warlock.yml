@@ -1,0 +1,7 @@
+Warlock:
+  config:
+    classtag: 'Warlock'
+    classMaxHealth: +2
+  traits:
+    LastStandtrait:
+      value: 50

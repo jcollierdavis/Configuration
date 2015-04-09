@@ -1,0 +1,7 @@
+Ninja:
+  config:
+    classtag: 'Nijna'
+    classMaxHealth: +2
+  traits:
+    LastStandtrait:
+      value: 50

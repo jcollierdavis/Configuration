@@ -1,0 +1,20 @@
+Rogue:
+  config:
+    racetag: 'Rogue'
+    raceMaxHealth: 25
+    armor: leather
+  traits:
+    ArrowDamageIncreaseTrait:
+      operation: '+'
+      value: 2
+      displayName: 'Bow proficiency'
+      description: 'Increase damage from bows'
+    DodgeTrait:
+      chance: 25
+    PermanentPotionTrait:
+      amplifier: 1
+      type: 16
+      removeParticles: true
+    FallResistanceTrait:
+      operation: '-'
+      value: 2
