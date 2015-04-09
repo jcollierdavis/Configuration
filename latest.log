@@ -1,0 +1,214 @@
+[19:56:29] [Server thread/INFO]: Starting minecraft server version 1.8
+[19:56:29] [Server thread/INFO]: Loading properties
+[19:56:29] [Server thread/INFO]: Default game type: SURVIVAL
+[19:56:29] [Server thread/INFO]: Generating keypair
+[19:56:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:56:30] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-33d5de3 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[19:56:31] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.0;3342-78f975b9
+[19:56:31] [Server thread/INFO]: [DamageIndicatorHolograms] Loading DamageIndicatorHolograms v1.3
+[19:56:31] [Server thread/INFO]: [CommandPoints] Loading CommandPoints v1.0
+[19:56:31] [Server thread/INFO]: [TerrainControl] Loading TerrainControl v2.6.4
+[19:56:31] [Server thread/INFO]: [iConomy] Loading iConomy v6.0.9b
+[19:56:31] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.1
+[19:56:31] [Server thread/INFO]: [CustomArmors] Loading CustomArmors v1.1.3 Beta
+[19:56:31] [Server thread/INFO]: [BossShop] Loading BossShop v2.1.0
+[19:56:31] [Server thread/INFO]: [CommandHooks] Loading CommandHooks v1.0.0
+[19:56:31] [Server thread/INFO]: [RacesAndClasses] Loading RacesAndClasses v1.1.3
+[19:56:31] [Server thread/INFO]: [BetterPvP] Loading BetterPvP v1.0.4
+[19:56:31] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b691
+[19:56:31] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.0.0-beta-03.1514-
+[19:56:31] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v1.52
+[19:56:31] [Server thread/INFO]: [Multiverse-Inventories] Loading Multiverse-Inventories v2.5-b335
+[19:56:31] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-bUNKNOWN
+[19:56:31] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[19:56:31] [Server thread/INFO]: [InfiniteKits] Loading InfiniteKits v0.7
+[19:56:31] [Server thread/INFO]: [Magic] Loading Magic v4.7.1
+[19:56:31] [Server thread/INFO]: [UnlimitedRecipes] Loading UnlimitedRecipes v2.1
+[19:56:31] [Server thread/INFO]: [MobHunting] Loading MobHunting v1.8.0
+[19:56:31] [Server thread/INFO]: [Parkour] Loading Parkour v3.4
+[19:56:31] [Server thread/INFO]: [TerrainControl] Enabling TerrainControl v2.6.4
+[19:56:31] [Server thread/INFO]: [TerrainControl] [INFO] 20 Global custom objects loaded
+[19:56:31] [Server thread/INFO]: [TerrainControl] [INFO] Global objects loaded, waiting for worlds to load
+[19:56:31] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[19:56:31] [Server thread/WARN]: iConomy - If you are using Flatfile storage be aware that versions 6, 7 and 8 have a CRITICAL bug which can wipe ALL iconomy data.
+[19:56:31] [Server thread/WARN]: if you're using Votifier, or any other plugin which handles economy data in a threaded manner your server is at risk!
+[19:56:31] [Server thread/WARN]: it is highly suggested to use SQL with iCo6 or to use an alternative economy plugin!
+[19:56:31] [Server thread/INFO]: [Vault] [Economy] iConomy 6 found: Waiting
+[19:56:31] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[19:56:31] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[19:56:31] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[19:56:31] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[19:56:31] [Server thread/INFO]: Preparing level "world"
+[19:56:31] [Server thread/INFO]: Preparing start region for level 0 (Seed: -5984912383090169512)
+[19:56:32] [Server thread/INFO]: Preparing spawn area: 51%
+[19:56:33] [Server thread/INFO]: Preparing start region for level 1 (Seed: -5984912383090169512)
+[19:56:34] [Server thread/INFO]: Preparing spawn area: 70%
+[19:56:34] [Server thread/INFO]: Preparing start region for level 2 (Seed: -5984912383090169512)
+[19:56:34] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.0;3342-78f975b9
+[19:56:35] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[19:56:35] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R1 as the Bukkit adapter
+[19:56:35] [Server thread/INFO]: [DamageIndicatorHolograms] Enabling DamageIndicatorHolograms v1.3
+[19:56:35] [Server thread/INFO]: [CommandPoints] Enabling CommandPoints v1.0
+[19:56:35] [Server thread/INFO]: CommandPoints version 1.0 is enabled!
+[19:56:35] [Server thread/INFO]: [iConomy] Enabling iConomy v6.0.9b
+[19:56:35] [Server thread/INFO]: [iConomy - Celty] Enabled (26 ms)
+[19:56:35] [Server thread/INFO]: [Vault][Economy] iConomy 6 hooked.
+[19:56:35] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.1
+[19:56:35] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[19:56:35] [Thread-8/INFO]: [iConomy - Celty] Purged accounts with default balance.
+[19:56:35] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[19:56:35] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[19:56:35] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[19:56:35] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[19:56:35] [Server thread/INFO]: [CustomArmors] Enabling CustomArmors v1.1.3 Beta
+[19:56:36] [Server thread/INFO]: [BossShop] Enabling BossShop v2.1.0
+[19:56:36] [Server thread/INFO]: [BossShop] Loading data...
+[19:56:36] [Server thread/INFO]: [BossShop] Loaded 9 Shops!
+[19:56:36] [Server thread/INFO]: [BossShop] Vault found.
+[19:56:36] [Server thread/INFO]: [CommandHooks] Enabling CommandHooks v1.0.0
+[19:56:36] [Server thread/INFO]: [CommandHooks] Loaded 0 holders.
+[19:56:36] [Server thread/INFO]: [CommandHooks] Loaded 0 flags.
+[19:56:36] [Server thread/INFO]: [CommandHooks] Loaded 0 conditions.
+[19:56:36] [Server thread/INFO]: [CommandHooks] CommandHooks is Enable!
+[19:56:36] [Server thread/INFO]: [RacesAndClasses] Enabling RacesAndClasses v1.1.3
+[19:56:39] [Server thread/INFO]: [RacesAndClasses]loaded: 83 traits, 6 races, 19 classes, 16 channels, hooked 16 Events
+[19:56:39] [Server thread/INFO]: [RacesAndClasses]RacesAndClasses Version: '1.1.3' fully loaded with Permissions: Vault
+[19:56:39] [Server thread/INFO]: [BetterPvP] Enabling BetterPvP v1.0.4
+[19:56:39] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b691
+[19:56:39] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - hooked into iConomy 6 for Multiverse-Core v2.5-b691
+[19:56:39] [Server thread/INFO]: [TerrainControl] [INFO] Starting to enable world ''pirate-ocean''...
+[19:56:39] [Server thread/INFO]: [TerrainControl] [INFO] 0 world custom objects loaded.
+[19:56:40] [Server thread/INFO]: [TerrainControl] [INFO] 60 biomes Loaded
+[19:56:40] [Server thread/INFO]: [TerrainControl] [INFO] World pirate-ocean is now enabled!
+[19:56:40] [Server thread/INFO]: Preparing start region for level 3 (Seed: 1676677701)
+[19:56:41] [Server thread/INFO]: Preparing spawn area for pirate-ocean, 60%
+[19:56:42] [Server thread/INFO]: [TerrainControl] [INFO] Starting to enable world ''warrior-desert''...
+[19:56:42] [Server thread/INFO]: [TerrainControl] [INFO] 0 world custom objects loaded.
+[19:56:42] [Server thread/INFO]: [TerrainControl] [INFO] 61 biomes Loaded
+[19:56:42] [Server thread/INFO]: [TerrainControl] [INFO] World warrior-desert is now enabled!
+[19:56:42] [Server thread/INFO]: Preparing start region for level 4 (Seed: 12)
+[19:56:43] [Server thread/INFO]: Preparing spawn area for warrior-desert, 44%
+[19:56:44] [Server thread/INFO]: [Multiverse-Core] 5 - World(s) loaded.
+[19:56:44] [Server thread/INFO]: [Multiverse-Core] Loading anchor:  'help'...
+[19:56:44] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b691 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[19:56:44] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.0.0-beta-03.1514-
+[19:56:45] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[19:56:45] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[19:56:45] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[19:56:45] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[19:56:45] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[19:56:45] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[19:56:45] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[19:56:45] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[19:56:45] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[19:56:45] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[19:56:45] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[19:56:45] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[19:56:45] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[19:56:45] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[19:56:45] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[19:56:45] [Server thread/INFO]: [WorldGuard] (pirate-ocean) TNT ignition is PERMITTED.
+[19:56:45] [Server thread/INFO]: [WorldGuard] (pirate-ocean) Lighters are PERMITTED.
+[19:56:45] [Server thread/INFO]: [WorldGuard] (pirate-ocean) Lava fire is blocked.
+[19:56:45] [Server thread/INFO]: [WorldGuard] (pirate-ocean) Fire spread is UNRESTRICTED.
+[19:56:45] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'pirate-ocean'
+[19:56:45] [Server thread/INFO]: [WorldGuard] (warrior-desert) TNT ignition is PERMITTED.
+[19:56:45] [Server thread/INFO]: [WorldGuard] (warrior-desert) Lighters are PERMITTED.
+[19:56:45] [Server thread/INFO]: [WorldGuard] (warrior-desert) Lava fire is blocked.
+[19:56:45] [Server thread/INFO]: [WorldGuard] (warrior-desert) Fire spread is UNRESTRICTED.
+[19:56:45] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'warrior-desert'
+[19:56:45] [Server thread/INFO]: [WorldGuard] Loading region data...
+[19:56:45] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v1.52
+[19:56:45] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v2.5-b335
+[19:56:45] [Server thread/INFO]: [Multiverse-Inventories 2.5-b335] enabled.
+[19:56:45] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-bUNKNOWN
+[19:56:45] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-bUNKNOWN Enabled - By Rigby and fernferret
+[19:56:45] [Server thread/INFO]: [MVPLogging] 26 - Portals(s) loaded
+[19:56:45] [Server thread/INFO]: [Multiverse-Portals] Found WorldEdit, using it for selections.
+[19:56:45] [Server thread/INFO]: [InfiniteKits] Enabling InfiniteKits v0.7
+[19:56:45] [Server thread/INFO]: InfiniteKits version 0.7 is enabled!
+[19:56:45] [Server thread/INFO]: [Magic] Enabling Magic v4.7.1
+[19:56:45] [Server thread/INFO]: [Magic] EffectLib initialized
+[19:56:45] [Server thread/INFO]: [Magic] WorldEdit found, schematic brushes enabled.
+[19:56:45] [Server thread/INFO]: [Magic] Loading config.yml
+[19:56:45] [Server thread/INFO]: [Magic]  Based on defaults defaults/config.defaults.yml
+[19:56:45] [Server thread/INFO]: [Magic] Wand enchanting is enabled
+[19:56:45] [Server thread/INFO]: [Magic] Wand crafting is enabled
+[19:56:45] [Server thread/INFO]: [Magic] Wand anvil combining is enabled
+[19:56:45] [Server thread/INFO]: [Magic] Wand anvil organizing is enabled
+[19:56:45] [Server thread/INFO]: [Magic] Loading messages.yml
+[19:56:45] [Server thread/INFO]: [Magic]  Based on defaults defaults/messages.defaults.yml
+[19:56:46] [Server thread/INFO]: [Magic] Loading materials.yml
+[19:56:46] [Server thread/INFO]: [Magic]  Based on defaults defaults/materials.defaults.yml
+[19:56:46] [Server thread/INFO]: [Magic] Loading spells.yml
+[19:56:46] [Server thread/INFO]: [Magic]  Based on defaults defaults/spells.defaults.yml
+[19:56:46] [Server thread/INFO]: [Magic] Loaded 228 spells
+[19:56:46] [Server thread/INFO]: [Magic] Loading enchanting.yml
+[19:56:46] [Server thread/INFO]: [Magic]  Based on defaults defaults/enchanting.defaults.yml
+[19:56:46] [Server thread/INFO]: [Magic] Loaded 9 enchanting paths
+[19:56:46] [Server thread/INFO]: [Magic] Loading wands.yml
+[19:56:46] [Server thread/INFO]: [Magic]  Based on defaults defaults/wands.defaults.yml
+[19:56:46] [Server thread/INFO]: [Magic] Loaded 56 wands
+[19:56:46] [Server thread/INFO]: [Magic] Loading crafting.yml
+[19:56:46] [Server thread/INFO]: [Magic]  Based on defaults defaults/crafting.defaults.yml
+[19:56:46] [Server thread/INFO]: [Magic] Loaded 6 crafting recipes
+[19:56:46] [Server thread/INFO]: [Magic] Integrated with Vault, virtual economy and descriptive item names available
+[19:56:46] [Server thread/INFO]: [Magic] dtlTraders not found, will not integrate.
+[19:56:46] [Server thread/INFO]: [Magic] Factions not found, will not integrate.
+[19:56:46] [Server thread/INFO]: [Magic] WorldGuard found, will respect build permissions for construction spells
+[19:56:46] [Server thread/INFO]: [Magic] Multiverse-Core found, will respect PVP settings
+[19:56:46] [Server thread/INFO]: [Magic] PreciousStones not found, region protection and pvp checks will not be used.
+[19:56:46] [Server thread/INFO]: [Magic] Towny not found, region protection and pvp checks will not be used.
+[19:56:46] [Server thread/INFO]: [Magic] Lockette not found, will not integrate.
+[19:56:46] [Server thread/INFO]: [Magic] dynmap not found, not integrating.
+[19:56:46] [Server thread/INFO]: [Magic] Citizens not found, Magic trait unavailable.
+[19:56:46] [Server thread/INFO]: [Magic] Activated MCStats
+[19:56:46] [Server thread/INFO]: [Magic] Adding crafting recipe for battle
+[19:56:46] [Server thread/INFO]: [Magic] Disabled default crafting recipe for GOLD_AXE
+[19:56:46] [Server thread/INFO]: [Magic] Adding crafting recipe for camera
+[19:56:46] [Server thread/INFO]: [Magic] Disabled default crafting recipe for GOLD_HOE
+[19:56:46] [Server thread/INFO]: [Magic] Disabled default crafting recipe for GOLD_SPADE
+[19:56:46] [Server thread/INFO]: [Magic] Adding crafting recipe for broomstick
+[19:56:46] [Server thread/INFO]: [Magic] Disabled default crafting recipe for WOOD_HOE
+[19:56:46] [Server thread/INFO]: [Magic] Adding crafting recipe for beginner
+[19:56:46] [Server thread/INFO]: [UnlimitedRecipes] Enabling UnlimitedRecipes v2.1
+[19:56:46] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: ICE:0 added !
+[19:56:46] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: MOSSY_COBBLESTONE:0 added !
+[19:56:46] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: SMOOTH_BRICK:1 added !
+[19:56:46] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: SMOOTH_BRICK:1 added !
+[19:56:46] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: SMOOTH_BRICK:2 added !
+[19:56:46] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: SMOOTH_BRICK:3 added !
+[19:56:46] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: COAL_ORE:0 added !
+[19:56:46] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: DIAMOND_ORE:0 added !
+[19:56:46] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: TNT:0 added !
+[19:56:46] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: CHAINMAIL_HELMET:0 added !
+[19:56:46] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: CHAINMAIL_CHESTPLATE:0 added !
+[19:56:46] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: CHAINMAIL_LEGGINGS:0 added !
+[19:56:46] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: CHAINMAIL_BOOTS:0 added !
+[19:56:46] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: SKULL_ITEM:3 added !
+[19:56:46] [Server thread/INFO]: [UnlimitedRecipes] All craft recipes loaded !
+[19:56:46] [Server thread/INFO]: [UnlimitedRecipes] Furnace Recipe for: NETHERRACK added !
+[19:56:46] [Server thread/INFO]: [UnlimitedRecipes] All smelt recipes loaded !
+[19:56:46] [Server thread/INFO]: [MobHunting] Enabling MobHunting v1.8.0
+[19:56:46] [Server thread/INFO]: [Parkour] Enabling Parkour v3.4
+[19:56:46] [Server thread/INFO]: [Parkour] 3.4 Enabled!
+[19:56:46] [Server thread/INFO]: [Parkour] Linked with Economy v1.5.0-b28
+[19:56:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:56:47] [Server thread/INFO]: Done (15.565s)! For help, type "help" or "?"
+[19:56:47] [pool-3-thread-4/INFO]: [Vault] Checking for Updates ... 
+[19:56:47] [pool-3-thread-7/INFO]: [21m[0;31;1m[UnlimitedRecipes] [m[0;31;1mAn update is available, you can get it here: [m
+[19:56:47] [pool-3-thread-7/INFO]: [0;31;1mhttp://dev.bukkit.org/bukkit-plugins/unlimitedrecipes/[m
+[19:56:47] [pool-3-thread-4/WARN]: [Vault] Stable Version: 1.5.3 is out! You are still running version: 1.5.0
+[19:56:47] [pool-3-thread-4/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[19:56:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5554ms behind, skipping 111 tick(s)
+[19:57:33] [Server thread/INFO]: [Magic] Loading lost wand data
+[19:57:33] [Server thread/INFO]: [Magic] Loaded 0 lost wands
+[19:57:33] [Server thread/INFO]: [Magic] Loading automata data
+[19:57:33] [Server thread/INFO]: [Magic] Loaded 0 automata
+[19:57:33] [Server thread/INFO]: [Magic] Loading image map data from imagemaps.yml
+[19:57:33] [Server thread/INFO]: [Magic] Loaded 0 image maps
+[19:57:33] [Server thread/INFO]: [Magic] Finished loading data.
+[19:57:52] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[19:57:52] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[19:57:52] [Server Watchdog/ERROR]: This crash report has been saved to: C:\mc-server\.\crash-reports\crash-2015-04-08_19.57.52-server.txt
+[19:57:52] [Thread-4/INFO]: Stopping server
