@@ -1,0 +1,497 @@
+[18:54:02] [Server thread/INFO]: Starting minecraft server version 1.8
+[18:54:02] [Server thread/INFO]: Loading properties
+[18:54:03] [Server thread/INFO]: Default game type: SURVIVAL
+[18:54:03] [Server thread/INFO]: Generating keypair
+[18:54:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:54:03] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-33d5de3 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[18:54:04] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.0;3342-78f975b9
+[18:54:04] [Server thread/INFO]: [DamageIndicatorHolograms] Loading DamageIndicatorHolograms v1.3
+[18:54:04] [Server thread/INFO]: [CommandPoints] Loading CommandPoints v1.0
+[18:54:04] [Server thread/INFO]: [TerrainControl] Loading TerrainControl v2.6.4
+[18:54:04] [Server thread/INFO]: [iConomy] Loading iConomy v6.0.9b
+[18:54:04] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.1
+[18:54:04] [Server thread/INFO]: [CustomArmors] Loading CustomArmors v1.1.3 Beta
+[18:54:04] [Server thread/INFO]: [BossShop] Loading BossShop v2.1.0
+[18:54:04] [Server thread/INFO]: [CommandHooks] Loading CommandHooks v1.0.0
+[18:54:04] [Server thread/INFO]: [RacesAndClasses] Loading RacesAndClasses v1.1.3
+[18:54:04] [Server thread/INFO]: [BetterPvP] Loading BetterPvP v1.0.4
+[18:54:04] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b691
+[18:54:04] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.0.0-beta-03.1514-
+[18:54:04] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v1.52
+[18:54:04] [Server thread/INFO]: [Multiverse-Inventories] Loading Multiverse-Inventories v2.5-b335
+[18:54:04] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-bUNKNOWN
+[18:54:04] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[18:54:04] [Server thread/INFO]: [InfiniteKits] Loading InfiniteKits v0.7
+[18:54:04] [Server thread/INFO]: [Magic] Loading Magic v4.7.1
+[18:54:04] [Server thread/INFO]: [UnlimitedRecipes] Loading UnlimitedRecipes v2.1
+[18:54:04] [Server thread/INFO]: [MobHunting] Loading MobHunting v1.8.0
+[18:54:04] [Server thread/INFO]: [Parkour] Loading Parkour v3.4
+[18:54:04] [Server thread/INFO]: [TerrainControl] Enabling TerrainControl v2.6.4
+[18:54:04] [Server thread/INFO]: [TerrainControl] [INFO] 20 Global custom objects loaded
+[18:54:04] [Server thread/INFO]: [TerrainControl] [INFO] Global objects loaded, waiting for worlds to load
+[18:54:04] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[18:54:04] [Server thread/WARN]: iConomy - If you are using Flatfile storage be aware that versions 6, 7 and 8 have a CRITICAL bug which can wipe ALL iconomy data.
+[18:54:04] [Server thread/WARN]: if you're using Votifier, or any other plugin which handles economy data in a threaded manner your server is at risk!
+[18:54:04] [Server thread/WARN]: it is highly suggested to use SQL with iCo6 or to use an alternative economy plugin!
+[18:54:04] [Server thread/INFO]: [Vault] [Economy] iConomy 6 found: Waiting
+[18:54:04] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[18:54:04] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[18:54:04] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[18:54:04] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[18:54:04] [Server thread/INFO]: Preparing level "world"
+[18:54:04] [Server thread/INFO]: Preparing start region for level 0 (Seed: -5984912383090169512)
+[18:54:05] [Server thread/INFO]: Preparing spawn area: 51%
+[18:54:06] [Server thread/INFO]: Preparing start region for level 1 (Seed: -5984912383090169512)
+[18:54:07] [Server thread/INFO]: Preparing spawn area: 89%
+[18:54:07] [Server thread/INFO]: Preparing start region for level 2 (Seed: -5984912383090169512)
+[18:54:07] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.0;3342-78f975b9
+[18:54:08] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[18:54:08] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R1 as the Bukkit adapter
+[18:54:08] [Server thread/INFO]: [DamageIndicatorHolograms] Enabling DamageIndicatorHolograms v1.3
+[18:54:08] [Server thread/INFO]: [CommandPoints] Enabling CommandPoints v1.0
+[18:54:08] [Server thread/INFO]: CommandPoints version 1.0 is enabled!
+[18:54:08] [Server thread/INFO]: [iConomy] Enabling iConomy v6.0.9b
+[18:54:08] [Server thread/INFO]: [iConomy - Celty] Enabled (27 ms)
+[18:54:08] [Server thread/INFO]: [Vault][Economy] iConomy 6 hooked.
+[18:54:08] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.1
+[18:54:08] [Thread-7/INFO]: [iConomy - Celty] Purged accounts with default balance.
+[18:54:08] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[18:54:08] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[18:54:08] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[18:54:08] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[18:54:08] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[18:54:08] [Server thread/INFO]: [CustomArmors] Enabling CustomArmors v1.1.3 Beta
+[18:54:08] [Server thread/INFO]: [BossShop] Enabling BossShop v2.1.0
+[18:54:08] [Server thread/INFO]: [BossShop] Loading data...
+[18:54:09] [Server thread/INFO]: [BossShop] Loaded 9 Shops!
+[18:54:09] [Server thread/INFO]: [BossShop] Vault found.
+[18:54:09] [Server thread/INFO]: [CommandHooks] Enabling CommandHooks v1.0.0
+[18:54:09] [Server thread/INFO]: [CommandHooks] Loaded 0 holders.
+[18:54:09] [Server thread/INFO]: [CommandHooks] Loaded 0 flags.
+[18:54:09] [Server thread/INFO]: [CommandHooks] Loaded 0 conditions.
+[18:54:09] [Server thread/INFO]: [CommandHooks] CommandHooks is Enable!
+[18:54:09] [Server thread/INFO]: [RacesAndClasses] Enabling RacesAndClasses v1.1.3
+[18:54:10] [Server thread/INFO]: [RacesAndClasses]loaded: 83 traits, 6 races, 19 classes, 16 channels, hooked 16 Events
+[18:54:10] [Server thread/INFO]: [RacesAndClasses]RacesAndClasses Version: '1.1.3' fully loaded with Permissions: Vault
+[18:54:10] [Server thread/INFO]: [BetterPvP] Enabling BetterPvP v1.0.4
+[18:54:10] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b691
+[18:54:10] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - hooked into iConomy 6 for Multiverse-Core v2.5-b691
+[18:54:10] [Server thread/INFO]: [TerrainControl] [INFO] Starting to enable world ''pirate-ocean''...
+[18:54:11] [Server thread/INFO]: [TerrainControl] [INFO] 0 world custom objects loaded.
+[18:54:11] [Server thread/INFO]: [TerrainControl] [INFO] 60 biomes Loaded
+[18:54:11] [Server thread/INFO]: [TerrainControl] [INFO] World pirate-ocean is now enabled!
+[18:54:11] [Server thread/INFO]: Preparing start region for level 3 (Seed: 1676677701)
+[18:54:12] [Server thread/INFO]: Preparing spawn area for pirate-ocean, 81%
+[18:54:12] [Server thread/INFO]: [TerrainControl] [INFO] Starting to enable world ''warrior-desert''...
+[18:54:12] [Server thread/INFO]: [TerrainControl] [INFO] 0 world custom objects loaded.
+[18:54:13] [Server thread/INFO]: [TerrainControl] [INFO] 61 biomes Loaded
+[18:54:13] [Server thread/INFO]: [TerrainControl] [INFO] World warrior-desert is now enabled!
+[18:54:13] [Server thread/INFO]: Preparing start region for level 4 (Seed: 12)
+[18:54:14] [Server thread/INFO]: Preparing spawn area for warrior-desert, 89%
+[18:54:14] [Server thread/INFO]: [Multiverse-Core] 5 - World(s) loaded.
+[18:54:14] [Server thread/INFO]: [Multiverse-Core] Loading anchor:  'help'...
+[18:54:14] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b691 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[18:54:14] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.0.0-beta-03.1514-
+[18:54:14] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[18:54:14] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[18:54:14] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[18:54:14] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[18:54:14] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[18:54:14] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[18:54:14] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[18:54:14] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[18:54:14] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[18:54:14] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[18:54:14] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[18:54:14] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[18:54:14] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[18:54:14] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[18:54:14] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[18:54:14] [Server thread/INFO]: [WorldGuard] (pirate-ocean) TNT ignition is PERMITTED.
+[18:54:14] [Server thread/INFO]: [WorldGuard] (pirate-ocean) Lighters are PERMITTED.
+[18:54:14] [Server thread/INFO]: [WorldGuard] (pirate-ocean) Lava fire is blocked.
+[18:54:14] [Server thread/INFO]: [WorldGuard] (pirate-ocean) Fire spread is UNRESTRICTED.
+[18:54:14] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'pirate-ocean'
+[18:54:14] [Server thread/INFO]: [WorldGuard] (warrior-desert) TNT ignition is PERMITTED.
+[18:54:14] [Server thread/INFO]: [WorldGuard] (warrior-desert) Lighters are PERMITTED.
+[18:54:14] [Server thread/INFO]: [WorldGuard] (warrior-desert) Lava fire is blocked.
+[18:54:14] [Server thread/INFO]: [WorldGuard] (warrior-desert) Fire spread is UNRESTRICTED.
+[18:54:14] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'warrior-desert'
+[18:54:14] [Server thread/INFO]: [WorldGuard] Loading region data...
+[18:54:15] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v1.52
+[18:54:15] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v2.5-b335
+[18:54:15] [Server thread/INFO]: [Multiverse-Inventories 2.5-b335] enabled.
+[18:54:15] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-bUNKNOWN
+[18:54:15] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-bUNKNOWN Enabled - By Rigby and fernferret
+[18:54:15] [Server thread/INFO]: [MVPLogging] 26 - Portals(s) loaded
+[18:54:15] [Server thread/INFO]: [Multiverse-Portals] Found WorldEdit, using it for selections.
+[18:54:15] [Server thread/INFO]: [InfiniteKits] Enabling InfiniteKits v0.7
+[18:54:15] [Server thread/INFO]: InfiniteKits version 0.7 is enabled!
+[18:54:15] [Server thread/INFO]: [Magic] Enabling Magic v4.7.1
+[18:54:15] [Server thread/INFO]: [Magic] EffectLib initialized
+[18:54:15] [Server thread/INFO]: [Magic] WorldEdit found, schematic brushes enabled.
+[18:54:15] [Server thread/INFO]: [Magic] Loading config.yml
+[18:54:15] [Server thread/INFO]: [Magic]  Based on defaults defaults/config.defaults.yml
+[18:54:15] [Server thread/INFO]: [Magic] Wand enchanting is enabled
+[18:54:15] [Server thread/INFO]: [Magic] Wand crafting is enabled
+[18:54:15] [Server thread/INFO]: [Magic] Wand anvil combining is enabled
+[18:54:15] [Server thread/INFO]: [Magic] Wand anvil organizing is enabled
+[18:54:15] [Server thread/INFO]: [Magic] Loading messages.yml
+[18:54:15] [Server thread/INFO]: [Magic]  Based on defaults defaults/messages.defaults.yml
+[18:54:15] [Server thread/INFO]: [Magic] Loading materials.yml
+[18:54:15] [Server thread/INFO]: [Magic]  Based on defaults defaults/materials.defaults.yml
+[18:54:15] [Server thread/INFO]: [Magic] Loading spells.yml
+[18:54:15] [Server thread/INFO]: [Magic]  Based on defaults defaults/spells.defaults.yml
+[18:54:16] [Server thread/INFO]: [Magic] Loaded 228 spells
+[18:54:16] [Server thread/INFO]: [Magic] Loading enchanting.yml
+[18:54:16] [Server thread/INFO]: [Magic]  Based on defaults defaults/enchanting.defaults.yml
+[18:54:16] [Server thread/INFO]: [Magic] Loaded 9 enchanting paths
+[18:54:16] [Server thread/INFO]: [Magic] Loading wands.yml
+[18:54:16] [Server thread/INFO]: [Magic]  Based on defaults defaults/wands.defaults.yml
+[18:54:16] [Server thread/INFO]: [Magic] Loaded 56 wands
+[18:54:16] [Server thread/INFO]: [Magic] Loading crafting.yml
+[18:54:16] [Server thread/INFO]: [Magic]  Based on defaults defaults/crafting.defaults.yml
+[18:54:16] [Server thread/INFO]: [Magic] Loaded 6 crafting recipes
+[18:54:16] [Server thread/INFO]: [Magic] Integrated with Vault, virtual economy and descriptive item names available
+[18:54:16] [Server thread/INFO]: [Magic] dtlTraders not found, will not integrate.
+[18:54:16] [Server thread/INFO]: [Magic] Factions not found, will not integrate.
+[18:54:16] [Server thread/INFO]: [Magic] WorldGuard found, will respect build permissions for construction spells
+[18:54:16] [Server thread/INFO]: [Magic] Multiverse-Core found, will respect PVP settings
+[18:54:16] [Server thread/INFO]: [Magic] PreciousStones not found, region protection and pvp checks will not be used.
+[18:54:16] [Server thread/INFO]: [Magic] Towny not found, region protection and pvp checks will not be used.
+[18:54:16] [Server thread/INFO]: [Magic] Lockette not found, will not integrate.
+[18:54:16] [Server thread/INFO]: [Magic] dynmap not found, not integrating.
+[18:54:16] [Server thread/INFO]: [Magic] Citizens not found, Magic trait unavailable.
+[18:54:16] [Server thread/INFO]: [Magic] Activated MCStats
+[18:54:16] [Server thread/INFO]: [Magic] Disabled default crafting recipe for GOLD_SPADE
+[18:54:16] [Server thread/INFO]: [Magic] Adding crafting recipe for broomstick
+[18:54:16] [Server thread/INFO]: [Magic] Disabled default crafting recipe for WOOD_HOE
+[18:54:16] [Server thread/INFO]: [Magic] Adding crafting recipe for beginner
+[18:54:16] [Server thread/INFO]: [Magic] Disabled default crafting recipe for GOLD_AXE
+[18:54:16] [Server thread/INFO]: [Magic] Adding crafting recipe for battle
+[18:54:16] [Server thread/INFO]: [Magic] Disabled default crafting recipe for GOLD_HOE
+[18:54:16] [Server thread/INFO]: [Magic] Adding crafting recipe for camera
+[18:54:16] [Server thread/INFO]: [UnlimitedRecipes] Enabling UnlimitedRecipes v2.1
+[18:54:16] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: ICE:0 added !
+[18:54:16] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: MOSSY_COBBLESTONE:0 added !
+[18:54:16] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: SMOOTH_BRICK:1 added !
+[18:54:16] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: SMOOTH_BRICK:1 added !
+[18:54:16] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: SMOOTH_BRICK:2 added !
+[18:54:16] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: SMOOTH_BRICK:3 added !
+[18:54:16] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: COAL_ORE:0 added !
+[18:54:16] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: DIAMOND_ORE:0 added !
+[18:54:16] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: TNT:0 added !
+[18:54:16] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: CHAINMAIL_HELMET:0 added !
+[18:54:16] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: CHAINMAIL_CHESTPLATE:0 added !
+[18:54:16] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: CHAINMAIL_LEGGINGS:0 added !
+[18:54:16] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: CHAINMAIL_BOOTS:0 added !
+[18:54:16] [Server thread/INFO]: [UnlimitedRecipes] Crafting Recipe for: SKULL_ITEM:3 added !
+[18:54:16] [Server thread/INFO]: [UnlimitedRecipes] All craft recipes loaded !
+[18:54:16] [Server thread/INFO]: [UnlimitedRecipes] Furnace Recipe for: NETHERRACK added !
+[18:54:16] [Server thread/INFO]: [UnlimitedRecipes] All smelt recipes loaded !
+[18:54:16] [Server thread/INFO]: [MobHunting] Enabling MobHunting v1.8.0
+[18:54:16] [Server thread/INFO]: [Parkour] Enabling Parkour v3.4
+[18:54:16] [Server thread/INFO]: [Parkour] 3.4 Enabled!
+[18:54:16] [Server thread/INFO]: [Parkour] Linked with Economy v1.5.0-b28
+[18:54:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:54:17] [Server thread/INFO]: Done (12.597s)! For help, type "help" or "?"
+[18:54:17] [pool-3-thread-9/INFO]: [Vault] Checking for Updates ... 
+[18:54:17] [pool-3-thread-7/INFO]: [21m[0;31;1m[UnlimitedRecipes] [m[0;31;1mAn update is available, you can get it here: [m
+[18:54:17] [pool-3-thread-7/INFO]: [0;31;1mhttp://dev.bukkit.org/bukkit-plugins/unlimitedrecipes/[m
+[18:54:17] [pool-3-thread-9/WARN]: [Vault] Stable Version: 1.5.3 is out! You are still running version: 1.5.0
+[18:54:17] [pool-3-thread-9/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[18:54:24] [User Authenticator #1/INFO]: DonRuyDiaz is logging in for the first time.
+[18:54:24] [User Authenticator #1/INFO]: UUID of player DonRuyDiaz is 870fe60f-7485-4e60-92ac-dc6f6f39e630
+[18:54:28] [Server thread/INFO]: Sending code: §c §r§5 §r§1 §r§f §r§4 §r§1 §r§9 §r§4 §r§3 §r§0 §r§3 
+[18:54:28] [Server thread/INFO]: DonRuyDiaz[/192.168.1.158:60395] logged in with entity id 26247 at ([world] -830.5930570676258, 69.0, -449.8777998854403)
+[18:54:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11783ms behind, skipping 235 tick(s)
+[18:54:28] [pool-3-thread-9/INFO]: [Magic] Loading mage data from file 870fe60f-7485-4e60-92ac-dc6f6f39e630.dat
+[18:55:34] [Server thread/INFO]: [Magic] Loading lost wand data
+[18:55:34] [Server thread/INFO]: [Magic] Loaded 0 lost wands
+[18:55:34] [Server thread/INFO]: [Magic] Loading automata data
+[18:55:34] [Server thread/INFO]: [Magic] Loaded 0 automata
+[18:55:34] [Server thread/INFO]: [Magic] Loading image map data from imagemaps.yml
+[18:55:34] [Server thread/INFO]: [Magic] Loaded 0 image maps
+[18:55:34] [Server thread/INFO]: [Magic] Finished loading data.
+[18:58:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 44051ms behind, skipping 881 tick(s)
+[19:05:09] [pool-3-thread-11/INFO]: [RacesAndClasses]YML File flushing done. Flushed 1 files to Disc. Took 250 ms.
+[19:05:13] [Server thread/INFO]: DonRuyDiaz issued server command: /race select
+[19:05:28] [Server thread/INFO]: DonRuyDiaz issued server command: /gamemode 1
+[19:05:28] [Server thread/INFO]: [DonRuyDiaz: Set own game mode to Creative Mode]
+[19:05:43] [Server thread/INFO]: DonRuyDiaz issued server command: //wand
+[19:05:58] [Server thread/INFO]: DonRuyDiaz issued server command: //set air
+[19:06:15] [Server thread/INFO]: DonRuyDiaz issued server command: //set air\
+[19:06:33] [Server thread/INFO]: DonRuyDiaz issued server command: //pos2
+[19:06:36] [Server thread/INFO]: DonRuyDiaz issued server command: //set air
+[19:06:53] [Server thread/INFO]: DonRuyDiaz issued server command: //pos2
+[19:06:54] [Server thread/INFO]: DonRuyDiaz issued server command: //set air
+[19:07:14] [Server thread/INFO]: DonRuyDiaz issued server command: //brush cyl air 3
+[19:08:09] [Server thread/INFO]: DonRuyDiaz issued server command: //brush smooth
+[19:08:45] [Server thread/INFO]: DonRuyDiaz issued server command: //brush cyl water 2
+[19:13:22] [Server thread/INFO]: DonRuyDiaz issued server command: //replace cobblestone log
+[19:14:25] [Server thread/INFO]: DonRuyDiaz issued server command: //replace cobblestone log
+[19:15:09] [pool-3-thread-18/INFO]: [RacesAndClasses]YML File flushing done. Flushed 1 files to Disc. Took 144 ms.
+[19:16:01] [Server thread/INFO]: DonRuyDiaz issued server command: //replace cobblestone log
+[19:16:32] [Server thread/INFO]: DonRuyDiaz issued server command: //replace cobblestone oak_stair
+[19:16:35] [Server thread/INFO]: DonRuyDiaz issued server command: //replace cobblestone oak_stairs
+[19:16:39] [Server thread/INFO]: DonRuyDiaz issued server command: //replace cobblestone stairs
+[19:16:42] [Server thread/INFO]: DonRuyDiaz issued server command: //replace cobblestone stair
+[19:20:28] [Server thread/INFO]: DonRuyDiaz lost connection: Disconnected
+[19:20:28] [Server thread/INFO]: [Magic] Player logged out, saving data to 870fe60f-7485-4e60-92ac-dc6f6f39e630.dat
+[19:20:29] [Server thread/INFO]: DonRuyDiaz left the game.
+[19:20:33] [User Authenticator #2/INFO]: DonRuyDiaz is logging in for the first time.
+[19:20:33] [User Authenticator #2/INFO]: UUID of player DonRuyDiaz is 870fe60f-7485-4e60-92ac-dc6f6f39e630
+[19:20:33] [Server thread/INFO]: Sending code: §c §r§5 §r§1 §r§f §r§4 §r§1 §r§9 §r§4 §r§3 §r§0 §r§3 
+[19:20:34] [Server thread/INFO]: DonRuyDiaz[/192.168.1.158:62165] logged in with entity id 49716 at ([world] -801.1591492340016, 75.13502093980237, -234.5134673727116)
+[19:20:34] [pool-3-thread-22/INFO]: [Magic] Loading mage data from file 870fe60f-7485-4e60-92ac-dc6f6f39e630.dat
+[19:20:42] [Server thread/INFO]: DonRuyDiaz issued server command: /gamemode 1
+[19:20:42] [Server thread/INFO]: [DonRuyDiaz: Set own game mode to Creative Mode]
+[19:20:44] [Server thread/INFO]: DonRuyDiaz issued server command: //butcher
+[19:20:50] [Server thread/INFO]: DonRuyDiaz issued server command: /time set 0600
+[19:20:50] [Server thread/INFO]: [DonRuyDiaz: Set the time to 600]
+[19:21:22] [Server thread/INFO]: DonRuyDiaz issued server command: //replace cobblestone oak_stairs
+[19:21:35] [Server thread/INFO]: DonRuyDiaz issued server command: //replace cobblestone 134
+[19:21:49] [Server thread/INFO]: DonRuyDiaz issued server command: //undo
+[19:21:59] [Server thread/INFO]: DonRuyDiaz issued server command: //replace cobblestone 134
+[19:22:08] [Server thread/INFO]: DonRuyDiaz issued server command: //undo
+[19:23:37] [Server thread/INFO]: DonRuyDiaz issued server command: //set 191
+[19:23:41] [Server thread/INFO]: DonRuyDiaz issued server command: //undo
+[19:24:25] [Server thread/INFO]: DonRuyDiaz issued server command: //replace nether_brick_fence 191
+[19:24:39] [Server thread/INFO]: DonRuyDiaz issued server command: //replace nether_brick_fence 191
+[19:24:51] [Server thread/INFO]: DonRuyDiaz issued server command: //replace nether_brick_fence 191
+[19:24:59] [Server thread/INFO]: DonRuyDiaz issued server command: //replace nether_brick_fence 191
+[19:25:05] [Server thread/INFO]: DonRuyDiaz issued server command: //replace nether_brick_fence 191
+[19:25:09] [pool-3-thread-23/INFO]: [RacesAndClasses]YML File flushing done. Flushed 1 files to Disc. Took 167 ms.
+[19:25:21] [Server thread/INFO]: DonRuyDiaz issued server command: //replace nether_brick_fence 191
+[19:25:31] [Server thread/INFO]: DonRuyDiaz issued server command: //replace nether_brick_fence 191
+[19:25:36] [Server thread/INFO]: DonRuyDiaz issued server command: //replace nether_brick_fence 191
+[19:25:48] [Server thread/INFO]: DonRuyDiaz issued server command: //replace nether_brick_fence 191
+[19:25:58] [Server thread/INFO]: DonRuyDiaz issued server command: //replace nether_brick_fence 191
+[19:26:12] [Server thread/INFO]: DonRuyDiaz issued server command: //replace nether_brick_fence 191
+[19:26:32] [Server thread/INFO]: DonRuyDiaz issued server command: //replace nether_brick_fence 191
+[19:26:59] [Server thread/INFO]: DonRuyDiaz issued server command: //replace nether_brick_fence 191
+[19:27:14] [Server thread/INFO]: DonRuyDiaz issued server command: //pos1
+[19:27:25] [Server thread/INFO]: DonRuyDiaz issued server command: //pos2
+[19:27:30] [Server thread/INFO]: DonRuyDiaz issued server command: //replace cobblestone 134
+[19:27:41] [Server thread/INFO]: DonRuyDiaz issued server command: //undo
+[19:27:47] [Server thread/INFO]: DonRuyDiaz issued server command: //replace cobblestone log
+[19:29:30] [Server thread/INFO]: DonRuyDiaz issued server command: //set fence
+[19:29:43] [Server thread/INFO]: DonRuyDiaz issued server command: //undo
+[19:30:01] [Server thread/INFO]: DonRuyDiaz issued server command: //set fence
+[19:30:11] [Server thread/INFO]: DonRuyDiaz issued server command: //set fence
+[19:30:22] [Server thread/INFO]: DonRuyDiaz issued server command: //set fence
+[19:31:09] [Server thread/INFO]: DonRuyDiaz issued server command: /time set 0600
+[19:31:09] [Server thread/INFO]: [DonRuyDiaz: Set the time to 600]
+[19:31:22] [Server thread/INFO]: DonRuyDiaz issued server command: //set wooden_slab
+[19:31:29] [Server thread/INFO]: DonRuyDiaz issued server command: //undo
+[19:32:53] [Server thread/INFO]: DonRuyDiaz issued server command: //replace stone_slab wooden_slab
+[19:33:04] [Server thread/INFO]: DonRuyDiaz issued server command: //undo
+[19:33:08] [Server thread/INFO]: DonRuyDiaz issued server command: //replace stone_slab air
+[19:34:26] [Server thread/INFO]: DonRuyDiaz issued server command: //replace stone_slab wooden_slab
+[19:34:44] [Server thread/INFO]: DonRuyDiaz issued server command: //replace cobblestone wooden_planks
+[19:35:00] [Server thread/INFO]: DonRuyDiaz issued server command: //replace cobblestone planks
+[19:35:10] [Server thread/INFO]: DonRuyDiaz issued server command: //replace cobblestone planks
+[19:35:18] [Server thread/INFO]: DonRuyDiaz issued server command: //pos2
+[19:35:20] [Server thread/INFO]: DonRuyDiaz issued server command: //replace cobblestone planks
+[19:35:29] [Server thread/INFO]: DonRuyDiaz issued server command: //pos2
+[19:35:31] [Server thread/INFO]: DonRuyDiaz issued server command: //replace cobblestone planks
+[19:35:40] [Server thread/INFO]: DonRuyDiaz issued server command: //replace cobblestone planks
+[19:35:51] [Server thread/INFO]: DonRuyDiaz issued server command: //replace cobblestone planks
+[19:36:24] [Server thread/INFO]: DonRuyDiaz issued server command: //replace cobblestone planks
+[19:37:08] [Server thread/INFO]: DonRuyDiaz issued server command: //pos1
+[19:37:19] [Server thread/INFO]: DonRuyDiaz issued server command: //pos2
+[19:37:25] [Server thread/INFO]: DonRuyDiaz issued server command: //replace planks air
+[19:38:26] [Server thread/INFO]: DonRuyDiaz issued server command: //replace stone sandstone
+[19:38:34] [Server thread/INFO]: DonRuyDiaz issued server command: //replace stone sandstone
+[19:38:50] [Server thread/INFO]: DonRuyDiaz issued server command: //copy
+[19:38:56] [Server thread/INFO]: DonRuyDiaz issued server command: //brush clipboard
+[19:39:06] [Server thread/INFO]: DonRuyDiaz issued server command: //undo
+[19:39:28] [Server thread/INFO]: DonRuyDiaz issued server command: //replace water sandstone
+[19:39:38] [Server thread/INFO]: DonRuyDiaz issued server command: //replace water sandstone
+[19:39:41] [Server thread/INFO]: DonRuyDiaz issued server command: //replace water sandstone
+[19:40:21] [Server thread/INFO]: DonRuyDiaz issued server command: //paste
+[19:40:26] [Server thread/INFO]: DonRuyDiaz issued server command: //undo
+[19:40:33] [Server thread/INFO]: DonRuyDiaz issued server command: //brush
+[19:40:40] [Server thread/INFO]: DonRuyDiaz issued server command: //brush clipboard paste
+[19:40:49] [Server thread/INFO]: DonRuyDiaz issued server command: //brush clipboard -p
+[19:41:14] [Server thread/INFO]: DonRuyDiaz issued server command: //pos1
+[19:41:21] [Server thread/INFO]: DonRuyDiaz issued server command: //pos2
+[19:41:29] [Server thread/INFO]: DonRuyDiaz issued server command: //replace water sand
+[19:41:41] [Server thread/INFO]: DonRuyDiaz issued server command: //pos2
+[19:41:43] [Server thread/INFO]: DonRuyDiaz issued server command: //replace water sand
+[19:41:54] [Server thread/INFO]: DonRuyDiaz issued server command: //brush cyl 3 air
+[19:42:03] [Server thread/INFO]: DonRuyDiaz issued server command: //brush cyl air 3
+[19:42:49] [Server thread/INFO]: DonRuyDiaz issued server command: //brush smooth
+[19:43:47] [Server thread/INFO]: DonRuyDiaz issued server command: //time set 600
+[19:43:51] [Server thread/INFO]: DonRuyDiaz issued server command: /time set 600
+[19:43:51] [Server thread/INFO]: [DonRuyDiaz: Set the time to 600]
+[19:46:36] [Server thread/INFO]: DonRuyDiaz issued server command: /time set 2200
+[19:46:36] [Server thread/INFO]: [DonRuyDiaz: Set the time to 2200]
+[19:46:42] [Server thread/INFO]: DonRuyDiaz issued server command: /time set 22000
+[19:46:42] [Server thread/INFO]: [DonRuyDiaz: Set the time to 22000]
+[19:47:12] [Server thread/INFO]: DonRuyDiaz issued server command: //replace cobblestone planks
+[19:47:32] [Server thread/INFO]: DonRuyDiaz issued server command: //replace stone_slab wooden_slab
+[19:48:53] [Server thread/INFO]: DonRuyDiaz issued server command: //replace nether_brick_fence fence
+[19:49:04] [Server thread/INFO]: DonRuyDiaz issued server command: //replace nether_brick_fence fence
+[19:49:10] [User Authenticator #3/INFO]: Andrewttang is logging in for the first time.
+[19:49:10] [User Authenticator #3/INFO]: UUID of player Andrewttang is 6b9c0008-8f3a-400d-bfa1-6773f469456c
+[19:49:10] [Server thread/INFO]: Sending code: §c §r§5 §r§1 §r§f §r§4 §r§1 §r§9 §r§4 §r§3 §r§0 §r§3 
+[19:49:10] [Server thread/INFO]: Andrewttang[/73.54.229.237:55442] logged in with entity id 74133 at ([world] -877.3000000119209, 103.0, -303.300000011921)
+[19:49:10] [pool-3-thread-41/INFO]: [Magic] Loading mage data from file 6b9c0008-8f3a-400d-bfa1-6773f469456c.dat
+[19:49:19] [Server thread/INFO]: DonRuyDiaz issued server command: //replace cobblestone log
+[19:49:19] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: whats up[m
+[19:49:26] [Server thread/INFO]: Andrewttang issued server command: /gamemode 1
+[19:49:26] [Server thread/INFO]: [Andrewttang: Set own game mode to Creative Mode]
+[19:49:30] [Server thread/INFO]: DonRuyDiaz issued server command: //say hi
+[19:49:33] [Server thread/INFO]: DonRuyDiaz issued server command: /say hi
+[19:49:33] [Server thread/INFO]: [DonRuyDiaz] hi
+[19:49:37] [Server thread/INFO]: DonRuyDiaz issued server command: /say this ship is great
+[19:49:37] [Server thread/INFO]: [DonRuyDiaz] this ship is great
+[19:49:49] [Server thread/INFO]: DonRuyDiaz issued server command: //replace nether_brick_fence fence
+[19:49:52] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: thanks do you like it with gray wool[m
+[19:49:58] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: i do[m
+[19:50:00] [Server thread/INFO]: DonRuyDiaz issued server command: /say not really
+[19:50:00] [Server thread/INFO]: [DonRuyDiaz] not really
+[19:50:03] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: why[m
+[19:50:05] [Server thread/INFO]: DonRuyDiaz issued server command: /say would prefer wood
+[19:50:05] [Server thread/INFO]: [DonRuyDiaz] would prefer wood
+[19:50:08] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: i can mask it[m
+[19:50:13] [Server thread/INFO]: DonRuyDiaz issued server command: /say cool
+[19:50:13] [Server thread/INFO]: [DonRuyDiaz] cool
+[19:50:21] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: i will change it[m
+[19:50:27] [Server thread/INFO]: DonRuyDiaz issued server command: /say use different kinds make the deck planks and the outside logs
+[19:50:27] [Server thread/INFO]: [DonRuyDiaz] use different kinds make the deck planks and the outside logs
+[19:50:33] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: are you going to do the sails[m
+[19:50:44] [Server thread/INFO]: DonRuyDiaz issued server command: /say looks better like this, you were right
+[19:50:44] [Server thread/INFO]: [DonRuyDiaz] looks better like this, you were right
+[19:50:50] [Server thread/INFO]: DonRuyDiaz issued server command: //butcher
+[19:50:57] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: yah[m
+[19:51:10] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: i think it looks ok with out the sails[m
+[19:51:48] [Server thread/INFO]: DonRuyDiaz issued server command: //replace wool logs
+[19:51:54] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: do you tthink it looks good with out the sails[m
+[19:51:56] [Server thread/INFO]: DonRuyDiaz issued server command: //undo
+[19:52:03] [Server thread/INFO]: DonRuyDiaz issued server command: /say yes, much better like that
+[19:52:03] [Server thread/INFO]: [DonRuyDiaz] yes, much better like that
+[19:52:14] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: huh[m
+[19:52:37] [Server thread/INFO]: DonRuyDiaz issued server command: //set wool
+[19:52:39] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: can you make it so i can use command blocks[m
+[19:52:44] [Server thread/INFO]: DonRuyDiaz issued server command: //undo
+[19:52:51] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: couse i can make the ship move[m
+[19:52:57] [Server thread/INFO]: DonRuyDiaz issued server command: /say sure, i'll have to restart the server
+[19:52:57] [Server thread/INFO]: [DonRuyDiaz] sure, i'll have to restart the server
+[19:53:06] [Server thread/INFO]: DonRuyDiaz issued server command: /say this needs to be in one place for now
+[19:53:06] [Server thread/INFO]: [DonRuyDiaz] this needs to be in one place for now
+[19:53:10] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: non of this will be here[m
+[19:53:21] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: rigyht[m
+[19:53:23] [Server thread/INFO]: DonRuyDiaz issued server command: //set wool
+[19:53:29] [Server thread/INFO]: DonRuyDiaz issued server command: //undo
+[19:53:40] [Server thread/INFO]: DonRuyDiaz issued server command: //set wool
+[19:53:52] [Server thread/INFO]: DonRuyDiaz issued server command: //set wool
+[19:53:53] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: what are you doing[m
+[19:54:07] [Server thread/INFO]: DonRuyDiaz issued server command: /say just putting a rolled up sail
+[19:54:07] [Server thread/INFO]: [DonRuyDiaz] just putting a rolled up sail
+[19:54:15] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: ok[m
+[19:54:26] [Server thread/INFO]: DonRuyDiaz issued server command: //set wool
+[19:54:31] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: what do you want me to do know[m
+[19:54:38] [Server thread/INFO]: DonRuyDiaz issued server command: //set wool
+[19:54:53] [Server thread/INFO]: DonRuyDiaz issued server command: //set wool
+[19:55:08] [Server thread/INFO]: [Magic] Auto-saving Magic data
+[19:55:08] [Server thread/INFO]: [Magic] Saving 2 players
+[19:55:08] [pool-3-thread-44/INFO]: [Magic] Finished saving
+[19:55:08] [pool-3-thread-44/INFO]: [RacesAndClasses]YML File flushing done. Flushed 1 files to Disc. Took 92 ms.
+[19:55:10] [Server thread/INFO]: DonRuyDiaz issued server command: //set wool
+[19:55:25] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: dom you want the hull to be oak log[m
+[19:55:30] [Server thread/INFO]: DonRuyDiaz issued server command: //set wool
+[19:55:42] [Server thread/INFO]: DonRuyDiaz issued server command: /say make it what ever kind of log you like
+[19:55:42] [Server thread/INFO]: [DonRuyDiaz] make it what ever kind of log you like
+[19:55:56] [Server thread/INFO]: DonRuyDiaz issued server command: /say a different kind then the masts
+[19:55:56] [Server thread/INFO]: [DonRuyDiaz] a different kind then the masts
+[19:56:07] [Server thread/INFO]: DonRuyDiaz issued server command: //set wool
+[19:56:14] [Server thread/INFO]: Andrewttang issued server command: /mask gray
+[19:56:18] [Server thread/INFO]: Andrewttang issued server command: /mat tree
+[19:56:34] [Server thread/INFO]: DonRuyDiaz issued server command: //set wool
+[19:56:39] [Server thread/INFO]: DonRuyDiaz issued server command: //undo
+[19:56:45] [Server thread/INFO]: DonRuyDiaz issued server command: //set wool
+[19:57:27] [Server thread/INFO]: DonRuyDiaz issued server command: //replace wool obsidian
+[19:57:31] [Server thread/INFO]: DonRuyDiaz issued server command: //replace wool obsidian
+[19:57:37] [Server thread/INFO]: DonRuyDiaz issued server command: //replace wool obsidian
+[19:57:40] [Server thread/INFO]: Andrewttang issued server command: /undo
+[19:57:41] [Server thread/INFO]: DonRuyDiaz issued server command: //replace wool obsidian
+[19:57:43] [Server thread/INFO]: Andrewttang issued server command: /undo
+[19:57:45] [Server thread/INFO]: DonRuyDiaz issued server command: //replace wool obsidian
+[19:57:50] [Server thread/INFO]: DonRuyDiaz issued server command: //replace wool obsidian
+[19:57:54] [Server thread/INFO]: DonRuyDiaz issued server command: //replace wool obsidian
+[19:58:00] [Server thread/INFO]: DonRuyDiaz issued server command: //replace wool obsidian
+[19:58:03] [Server thread/INFO]: DonRuyDiaz issued server command: //replace wool obsidian
+[19:58:07] [Server thread/INFO]: DonRuyDiaz issued server command: //replace wool obsidian
+[19:58:12] [Server thread/INFO]: Andrewttang issued server command: /mask gray
+[19:58:15] [Server thread/INFO]: Andrewttang issued server command: /mat wood
+[19:58:30] [Server thread/INFO]: DonRuyDiaz issued server command: //butcher
+[20:05:44] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: do you like the ship beter now i masked it[m
+[20:06:06] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: what are you doing[m
+[20:06:14] [Server thread/INFO]: DonRuyDiaz issued server command: //say it's good
+[20:06:17] [Server thread/INFO]: DonRuyDiaz issued server command: /say it's good
+[20:06:17] [Server thread/INFO]: [DonRuyDiaz] it's good
+[20:06:28] [Server thread/INFO]: DonRuyDiaz issued server command: /say just replacing the stones
+[20:06:28] [Server thread/INFO]: [DonRuyDiaz] just replacing the stones
+[20:06:55] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: i have made a tree times as bigger ship its epic it has working cannons[m
+[20:08:22] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: bye DonRuyDiaz[m
+[20:08:43] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: are you going to use scmatics for the ship[m
+[20:08:56] [Server thread/INFO]: DonRuyDiaz issued server command: /say you'll copy it over to the other world when it's ready
+[20:08:56] [Server thread/INFO]: [DonRuyDiaz] you'll copy it over to the other world when it's ready
+[20:08:58] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: is i big enough[m
+[20:09:21] [Server thread/INFO]: DonRuyDiaz issued server command: /say it's perfect
+[20:09:21] [Server thread/INFO]: [DonRuyDiaz] it's perfect
+[20:09:39] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: greate what do you want me to work on now[m
+[20:09:52] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: i going to have to go in a few minutes[m
+[20:09:58] [Server thread/INFO]: DonRuyDiaz issued server command: /say you're good
+[20:09:58] [Server thread/INFO]: [DonRuyDiaz] you're good
+[20:10:10] [Server thread/INFO]: DonRuyDiaz issued server command: /say we need a pirate fortress too
+[20:10:10] [Server thread/INFO]: [DonRuyDiaz] we need a pirate fortress too
+[20:10:18] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: i can make pirate island better[m
+[20:10:29] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: bye moms angry[m
+[20:10:46] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: couse im nkot in bed nd havent took a shower[m
+[20:11:01] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: meet you toomorrow at 6:00[m
+[20:11:04] [Netty Server IO #7/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: bye[m
+[20:11:07] [Server thread/INFO]: DonRuyDiaz issued server command: /say maybe
+[20:11:07] [Server thread/INFO]: [DonRuyDiaz] maybe
+[20:11:07] [Server thread/INFO]: Andrewttang lost connection: Disconnected
+[20:11:07] [Server thread/INFO]: [Magic] Player Andrewttang logged out with 44 spells in their undo queue
+[20:11:07] [Server thread/INFO]: [Magic] Player logged out, saving data to 6b9c0008-8f3a-400d-bfa1-6773f469456c.dat
+[20:11:07] [Server thread/INFO]: Andrewttang left the game.
+[20:11:12] [User Authenticator #4/INFO]: Andrewttang is logging in for the first time.
+[20:11:12] [User Authenticator #4/INFO]: UUID of player Andrewttang is 6b9c0008-8f3a-400d-bfa1-6773f469456c
+[20:11:12] [Server thread/INFO]: Sending code: §c §r§5 §r§1 §r§f §r§4 §r§1 §r§9 §r§4 §r§3 §r§0 §r§3 
+[20:11:12] [Server thread/INFO]: Andrewttang[/73.54.229.237:55470] logged in with entity id 91396 at ([world] -800.8007989162165, 84.33431041019803, -225.65578021368657)
+[20:11:12] [pool-3-thread-55/INFO]: [Magic] Loading mage data from file 6b9c0008-8f3a-400d-bfa1-6773f469456c.dat
+[20:11:20] [Netty Server IO #1/INFO]: [[0;37;1mworld[0;37;1m][0;35;22m[Global] [0;37;1m[0;37;1m[[NoRace]Andrewttang[0;37;1m][0;35;22m: bye[m
+[20:11:21] [Server thread/INFO]: Andrewttang lost connection: Disconnected
+[20:11:21] [Server thread/INFO]: [Magic] Player Andrewttang logged out with 44 spells in their undo queue
+[20:11:21] [Server thread/INFO]: [Magic] Player logged out, saving data to 6b9c0008-8f3a-400d-bfa1-6773f469456c.dat
+[20:11:21] [Server thread/INFO]: Andrewttang left the game.
+[20:15:08] [pool-3-thread-56/WARN]: Exception in thread "pool-3-thread-56" 
+[20:15:08] [pool-3-thread-56/WARN]: org.apache.commons.lang.UnhandledException: Plugin RacesAndClasses v1.1.3 generated an exception while executing task 8137
+	at org.bukkit.craftbukkit.v1_8_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:56)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NullPointerException
+	at de.tobiyas.racesandclasses.playermanagement.leveling.manager.MCPlayerLevelManager.save(MCPlayerLevelManager.java:125)
+	at de.tobiyas.racesandclasses.playermanagement.PlayerContainer.save(PlayerContainer.java:162)
+	at de.tobiyas.racesandclasses.playermanagement.PlayerManager.savePlayerContainer(PlayerManager.java:78)
+	at de.tobiyas.racesandclasses.persistence.file.YAMLPersistanceSaver.saveEverything(YAMLPersistanceSaver.java:131)
+	at de.tobiyas.racesandclasses.persistence.file.YAMLPersistanceSaver.flushNow(YAMLPersistanceSaver.java:86)
+	at de.tobiyas.racesandclasses.persistence.file.YAMLPersistanceSaver$2.run(YAMLPersistanceSaver.java:151)
+	at org.bukkit.craftbukkit.v1_8_R1.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_8_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+	... 3 more
+
+[20:30:06] [Server thread/INFO]: DonRuyDiaz issued server command: //butcher
+[20:47:50] [Server thread/INFO]: DonRuyDiaz issued server command: /time set 600
+[20:47:50] [Server thread/INFO]: [DonRuyDiaz: Set the time to 600]
+[20:54:24] [Server thread/INFO]: DonRuyDiaz lost connection: Disconnected
+[20:54:24] [Server thread/INFO]: [Magic] Player logged out, saving data to 870fe60f-7485-4e60-92ac-dc6f6f39e630.dat
+[20:54:24] [Server thread/INFO]: DonRuyDiaz left the game.
+[20:55:08] [Server thread/INFO]: [Magic] Auto-saving Magic data
+[20:55:08] [Server thread/INFO]: [Magic] Saving 0 players
+[20:55:08] [pool-3-thread-79/INFO]: [Magic] Finished saving
