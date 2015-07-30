@@ -23,6 +23,7 @@ Princess:
     MovementSpeedTrait:
       value: .35
     PassiveAggroTrait:
+      description: Pacifism.  Creatures will not attack the Princess.
       aggro: [BLAZE#0,CREEPER#0,DONKEY#0,ENDERMAN#0,ENDERMITE#0,GHAST#0,GUARDIAN#0,HORSE#0,MULE#0,OCELOT#0,SILVERFISH#0,SKELETON#0,SLIME#0,SPIDER#0,WITCH#0,WITHER#0,WOLF#0,ZOMBIE#0]
     FallResistanceTrait:
       operation: '*'
