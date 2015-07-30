@@ -8,7 +8,7 @@ Warrior:
       operation: '+'
       value: 3
       displayName: 'Axe proficiency'
-      description: 'Increase damage from axes'
+      description: 'Increased axe damage'
     BerserkerRageTrait:
       operation: '*'
       value: '1.25'
