@@ -10,7 +10,7 @@ Pirate:
       displayName: 'Pickaxe proficiency'
       description: 'Increase damage from pickaxes'
     MovementSpeedTrait:
-      value: .3
+      value: .125
     SwimmingSpeedTrait:
       level: 1
     DrainResistanceTrait:
