@@ -1,6 +1,6 @@
 Royal:
   config:
-    racetag: 'Royal'
+    racetag: 'Ryl'
     raceMaxHealth: 35
     armor: leather, chain, iron, gold, diamond
   traits:
