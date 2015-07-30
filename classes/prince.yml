@@ -13,14 +13,14 @@ Prince:
       value: 3
     DamageIncreaseTrait:
       description: Bonus attack damage
-      operation: +
+      operation: '+'
       value: 1
     DodgeTrait:
       description: The Prince easily dodges many attacks
       chance: 12.5
     HungerReplenishTrait:
       description: Food somehow seems to be more filling
-      operation: *
+      operation: '*'
       value: 1.75
     JumpHeightIncreaseTrait:
       description: Jump higher
