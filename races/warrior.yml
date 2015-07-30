@@ -1,6 +1,6 @@
 Warrior:
   config:
-    racetag: 'Warrior'
+    racetag: 'War'
     raceMaxHealth: 40
     armor: leather, chain, iron
   traits:
