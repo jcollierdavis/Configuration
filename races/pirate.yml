@@ -1,6 +1,6 @@
 Pirate:
   config:
-    racetag: 'Pirate'
+    racetag: 'Prt'
     raceMaxHealth: 30
     armor: leather
   traits:
