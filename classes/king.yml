@@ -19,17 +19,16 @@ King:
       description: Takes reduced damage at low health
       operation: '*'
       value: .8
-    #SpecificRegenerationTrait:
-     #description: Regenerates health
-     # seconds: 10
-    #  health: 2 
-    #  onlyAfterDamaged: 5
-    VampirismTrait:
-      value: .125
-      description: Absorbs health from enemies
     SunDamageTrait:
       seconds: 10
       damage: -1
       standing: true
       description: Heals in sunlight
+    SwimmingSpeedTrait:
+      level: 1
+    UnderwaterBreathTrait:
+      time: 60
+    VampirismTrait:
+      value: .125
+      description: Absorbs health from enemies
 
