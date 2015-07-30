@@ -20,15 +20,17 @@ King:
       operation: '*'
       value: .8
     SunDamageTrait:
+      description: Heals in sunlight
       seconds: 10
       damage: -1
       standing: true
-      description: Heals in sunlight
     SwimmingSpeedTrait:
+      description: Swim faster
       level: 1
     UnderwaterBreathTrait:
+      description: Breath last longer underwater
       time: 60
     VampirismTrait:
-      value: .125
       description: Absorbs health from enemies
+      value: .125
 
