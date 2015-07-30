@@ -4,25 +4,31 @@ Prince:
     classMaxHealth: +2
   traits:
     ShovelDamageIncreaseTrait:
+      description: Shovels do double damage
       operation: '*'
       value: 2.5
     AxeDamageIncreaseTrait:
+      description: Axes do double damage
       operation: '+'
       value: 3
     DamageIncreaseTrait:
+      description: Bonus attack damage
       operation: +
       value: 1
     DodgeTrait:
-      chance: 12.5
       description: The Prince easily dodges many attacks
+      chance: 12.5
     HungerReplenishTrait:
+      description: Food somehow seems to be more filling
       operation: *
       value: 1.75
     JumpHeightIncreaseTrait:
+      description: Jump higher
       value: 2
     #Mining Speed
     MovementSpeedTrait:
+      description: Moves faster
       value: .15
     VampirismTrait:
-      value: .125
       description: Absorb some health from enemies
+      value: .125
