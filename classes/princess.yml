@@ -3,45 +3,55 @@ Princess:
     classtag: 'Princess'
   traits:
     HoeDamageIncreaseTrait:
+      description: Triple damage from Hoes
       operation: '*'
       value: 3
     ShovelDamageIncreaseTrait:
+      description: Triple damage from Shovels
       operation: '*'
       value: 3
     DwarfSkinTrait:
+      description: Takes reduced damage at low health
       operation: '*'
-      value: 0.7
+      value: 0.2
     HungerReplenishTrait:
+      description: Food seems to be more filling
       operation: '+'
       value: 1.5
     LastStandTrait:
+      description: Hard to kill
       value: 4
       cooldown: 15
       disableCooldownNotice: true
-    MiningSpeedTrait:
-      value: 2
+    #MiningSpeedTrait:
+      #value: 2
     MovementSpeedTrait:
+      description: That Princess is really fast
       value: .35
     PassiveAggroTrait:
       description: Pacifism.  Creatures will not attack the Princess.
       aggro: [BLAZE#0,CREEPER#0,DONKEY#0,ENDERMAN#0,ENDERMITE#0,GHAST#0,GUARDIAN#0,HORSE#0,MULE#0,OCELOT#0,SILVERFISH#0,SKELETON#0,SLIME#0,SPIDER#0,WITCH#0,WITHER#0,WOLF#0,ZOMBIE#0]
     FallResistanceTrait:
+      description: Resistant to fall damage
       operation: '*'
       value: 2.5
     FireResistanceTrait:
+      description: Resistant to fire damage
       operation: '*'
       value: 2.5
     LavaResistanceTrait:
+      description: Resistant to lava damage
       operation: '*'
       value: 2.5
-    HealTotemTrait:
-      cost: 0
-      duration: 10
-      value: 2
-      cooldown: 50
-      tickEvery: 2
-      range: 3
+   #HealTotemTrait:
+      #cost: 0
+      #duration: 10
+     # value: 2
+      #cooldown: 50
+     # tickEvery: 2
+     # range: 3
     SunDamageTrait:
+      description: Bask in the sunlight to heal
       seconds: 2
       damage: -2
       standing: true
