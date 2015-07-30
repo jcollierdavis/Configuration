@@ -3,6 +3,26 @@ Prince:
     classtag: 'Prince'
     classMaxHealth: +2
   traits:
-    HoeDamageIncreaseTrait:
+    ShovelDamageIncreaseTrait:
       operation: '*'
       value: 2.5
+    AxeDamageIncreaseTrait:
+      operation: '+'
+      value: 3
+    DamageIncreaseTrait:
+      operation: +
+      value: 1
+    DodgeTrait:
+      chance: 12.5
+      description: The Prince easily dodges many attacks
+    HungerReplenishTrait:
+      operation: *
+      value: 1.75
+    JumpHeightIncreaseTrait:
+      value: 2
+    #Mining Speed
+    MovementSpeedTrait:
+      value: .15
+    VampirismTrait:
+      value: .125
+      description: Absorb some health from enemies
