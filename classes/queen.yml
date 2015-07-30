@@ -4,9 +4,11 @@ Queen:
     classMaxHealth: +2
   traits:
     ShovelDamageIncreaseTrait:
+      description: Triple damage from shovels
       operation: '*'
       value: 3.75
     HoeDamageIncreaseTrait:
+      description: Triple damage from hoes
       operation: '*'
       value: 3.75
     DamageReduceTrait:
@@ -14,15 +16,18 @@ Queen:
       operation: '*'
       value: .8
     DodgeTrait:
-      chance: 12.5
       description: An expert dancer, the Queen easilly dodges many attacks
+      chance: 12.5
     HungerReplenishTrait:
+      description: Food somehow seems to be more filling
       operation: *
       value: 1.75
     JumpHeightIncreaseTrait:
+      description: Jump higher
       value: 2
     #Mining Speed
     MovementSpeedTrait:
+      description: 
       value: .125
     #WeaponNextHitDamageIncreaseBuffTrait:
       #weapons:
