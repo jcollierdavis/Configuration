@@ -5,4 +5,33 @@ Queen:
   traits:
     ShovelDamageIncreaseTrait:
       operation: '*'
-      value: 2.75
+      value: 3.75
+    HoeDamageIncreaseTrait:
+      operation: '*'
+      value: 3.75
+    DamageReduceTrait:
+      description: Takes reduced damage
+      operation: '*'
+      value: .8
+    DodgeTrait:
+      chance: 12.5
+      description: An expert dancer, the Queen easilly dodges many attacks
+    HungerReplenishTrait:
+      operation: *
+      value: 1.75
+    JumpHeightIncreaseTrait:
+      value: 2
+    #Mining Speed
+    MovementSpeedTrait:
+      value: .125
+    #WeaponNextHitDamageIncreaseBuffTrait:
+      #weapons:
+      #damage:
+    SunDamageTrait:
+      seconds: 10
+      damage: -1
+      standing: true
+      description: Heals in sunlight
+    PassiveAggroTrait:
+      description: Pacifism. Creatures should not attack the Queen.
+      aggro: [BLAZE#0,CREEPER#0,DONKEY#0,ENDERMAN#0,ENDERMITE#0,GHAST#0,GUARDIAN#0,HORSE#0,MULE#0,OCELOT#0,SILVERFISH#0,SKELETON#0,SLIME#0,SPIDER#0,WITCH#0,WITHER#0,WOLF#0,ZOMBIE#0]
