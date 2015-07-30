@@ -1,6 +1,6 @@
 Rogue:
   config:
-    racetag: 'Rogue'
+    racetag: 'Rog'
     raceMaxHealth: 25
     armor: leather
   traits:
