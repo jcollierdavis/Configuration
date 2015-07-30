@@ -1,6 +1,6 @@
 Monk:
   config:
-    racetag: 'Monk'
+    racetag: 'Mnk'
     raceMaxHealth: 25
     armor: leather
   traits:
