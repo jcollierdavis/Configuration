@@ -1,6 +1,6 @@
 Mage:
   config:
-    racetag: 'Mage'
+    racetag: 'Mag'
     raceMaxHealth: 20
     armor: leather
     traits:
