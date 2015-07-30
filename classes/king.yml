@@ -4,38 +4,32 @@ King:
     classMaxHealth: +2
   traits:
     AxeDamageIncreaseTrait:
+      description: Bonus axe damage
       operation: '*'
       value: 1.75
     ArrowDamageIncreaseTrait:
+      description: Bonus arrow damage
       operation: '*'
       value: 1.75
     DamageReduceTrait:
+      description: Takes reduced damage
       operation: '*'
       value: .9
     DwarfSkinTrait:
+      description: Takes reduced damage at low health
       operation: '*'
       value: .8
-    SpecificRegenerationTrait:
-      seconds: 10
-      health: 2 
-      onlyAfterDamaged: 5
+    #SpecificRegenerationTrait:
+     #description: Regenerates health
+     # seconds: 10
+    #  health: 2 
+    #  onlyAfterDamaged: 5
     VampirismTrait:
       value: .125
-    # AbsorbDamageBuffTrait:
-      # types:
-      # value: 0.5
-    PotionTotemTrait:
-      cost: 0
-      effect: 5
-      amplifier: 1
-      cooldown: 30
-      onlyOnLand: true
-      duration: 15
-      range: 5
-      tickEvery: 1
+      description: Absorbs health from enemies
     SunDamageTrait:
       seconds: 10
       damage: -1
       standing: true
-      
+      description: Heals in sunlight
 
